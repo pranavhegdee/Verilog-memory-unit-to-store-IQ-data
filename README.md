@@ -3,7 +3,7 @@ This project implements a Verilog-based memory module designed to store **In-pha
 
 ---
 
-## 🧠 Module: `iq_memory.v`
+## 🧠 Module: `iqmemory.v`
 
 ### Description
 
